@@ -2,7 +2,7 @@
 
 A modern website built with [Next.js](https://nextjs.org/) and [Tailwind CSS v4](https://tailwindcss.com/).
 
-## Getting Started
+## Getting Started 
 
 First, install the dependencies:
 
