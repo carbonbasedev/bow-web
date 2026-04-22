@@ -313,6 +313,7 @@ export default function Home() {
           <nav className="flex flex-wrap items-center justify-center gap-6 text-sm text-gray-500">
             <a href="/privacy-policy" className="transition-colors hover:text-gray-900">Política de privacidad</a>
             <a href="/content-rights" className="transition-colors hover:text-gray-900">Derechos de contenido</a>
+            <a href="/faq" className="transition-colors hover:text-gray-900">FAQ</a>
             <a href="/support" className="transition-colors hover:text-gray-900">Soporte</a>
           </nav>
 
