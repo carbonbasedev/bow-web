@@ -39,7 +39,7 @@ export default function Home() {
               </p>
 
               <div className="mt-8 flex items-center gap-4 animate-fade-up delay-600">
-                <a href="#" aria-label="Download on the App Store">
+                <a href="https://apps.apple.com/ar/app/bow-app/id6755008911" aria-label="Download on the App Store">
                   <Image
                     src="/images/apple_store.svg"
                     alt="Download on the App Store"
@@ -275,7 +275,7 @@ export default function Home() {
             </h2>
 
             <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
-              <a href="#" aria-label="Download on the App Store">
+              <a href="https://apps.apple.com/ar/app/bow-app/id6755008911" aria-label="Download on the App Store">
                 <Image
                   src="/images/apple_store.svg"
                   alt="Download on the App Store"
@@ -319,7 +319,7 @@ export default function Home() {
 
           {/* Store badges */}
           <div className="flex items-center gap-3">
-            <a href="#" aria-label="Download on the App Store">
+            <a href="https://apps.apple.com/ar/app/bow-app/id6755008911" aria-label="Download on the App Store">
               <Image
                 src="/images/apple_store.svg"
                 alt="App Store"
