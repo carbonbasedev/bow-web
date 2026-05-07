@@ -48,7 +48,7 @@ export default function Home() {
                     className="h-[46px] w-auto"
                   />
                 </a>
-                <a href="#" aria-label="Get it on Google Play">
+                <a href="https://expo.dev/accounts/nokmachado/projects/bowapp/builds/9eb98cea-6f95-4125-bdb0-afa569e02202" aria-label="Get it on Google Play">
                   <Image
                     src="/images/google_play.svg"
                     alt="Get it on Google Play"
@@ -284,7 +284,7 @@ export default function Home() {
                   className="h-[50px] w-auto"
                 />
               </a>
-              <a href="#" aria-label="Get it on Google Play">
+              <a href="https://expo.dev/accounts/nokmachado/projects/bowapp/builds/9eb98cea-6f95-4125-bdb0-afa569e02202" aria-label="Get it on Google Play">
                 <Image
                   src="/images/google_play.svg"
                   alt="Get it on Google Play"
@@ -328,7 +328,7 @@ export default function Home() {
                 className="h-[36px] w-auto"
               />
             </a>
-            <a href="#" aria-label="Get it on Google Play">
+            <a href="https://expo.dev/accounts/nokmachado/projects/bowapp/builds/9eb98cea-6f95-4125-bdb0-afa569e02202" aria-label="Get it on Google Play">
               <Image
                 src="/images/google_play.svg"
                 alt="Google Play"
